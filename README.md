@@ -18,3 +18,8 @@ def predict(text):
 ```
 predict("Hello, I am Ronit. I like NLP.")
 ```
+### Sample output
+```
+Hallo, ich bin Ronit. Ich mag NLP.
+
+```
