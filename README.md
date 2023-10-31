@@ -1,8 +1,11 @@
 # english2german
-## To run this tranlator directly:
 
+## Install dependency 
 ```
-
+!pip install transformers
+```
+## To run this tranlator directly:
+```
 def predict(text):
   from transformers import pipeline
   pipe = pipeline(model="ronit33/english2german")
